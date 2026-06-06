@@ -6,5 +6,7 @@
 🎓 Learning at 1337 (42 Network), Morocco<br/>
 📚 Learning C/C++, Docker, Networking<br/>
 💭 Currently working on Inception project<br/>
+<br/>
+<br/>
 
-[![Zineb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zinebaiterrami1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Zinebaiterrami1?cardType=github&theme=dark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
