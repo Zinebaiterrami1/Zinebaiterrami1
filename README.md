@@ -1,8 +1,11 @@
+<!--Level 1: simple bio and stats -->
+
 ### Hi, I'm Zineb!
 
-👩🏻‍💻Software Engineering student passionate about systems programming and problem solving
-🎓 Learning at 1337 (42 Network), Morocco
-📚 learning C/C++, Docker, Networking
-💭 Currently working on inception project
+👩🏻‍💻Software Engineering student passionate about systems programming and problem solving<br/>
+🎓 Learning at 1337 (42 Network), Morocco<br/>
+📚 learning C/C++, Docker, Networking<br/>
+💭 Currently working on inception project<br/>
 
-![Zineb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zinebaiterrami1&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zinebaiterrami1&show_icons=true&theme=radical)
